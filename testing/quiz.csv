@@ -1,0 +1,6 @@
+mcq,options,correct
+What is the function of the yellow perceptrons in a neural network?,a:Make complex decisions|b:Process input data|c:Produce the final output|d:Weigh the results from the first layer,b
+Which layer in a neural network makes more abstract decisions?,a:Input layer|b:Hidden layer|c:Output layer|d:None of the above,b
+What color represents the hidden layer in a neural network?,a:Yellow|b:Blue|c:Red|d:Green,b
+What type of decisions do the blue perceptrons make in a neural network?,a:Simple decisions|b:Complex decisions|c:Abstract decisions|d:Final decisions,c
+How does input data get processed in a neural network model?,a:Against the output layer|b:Against the hidden layer|c:Against the input layer|d:None of the above,b

@@ -1,0 +1,13 @@
+In its simplest form, a neural network is made up from:
+
+An input layer (yellow)
+A hidden layer (blue)
+An output layer (red)
+In the Neural Network Model, input data (yellow) are processed against a hidden layer (blue) before producing the final output (red).
+
+The First Layer:
+The yellow perceptrons are making simple decisions based on the input. Each single decision is sent to the perceptrons in the next layer.
+
+The Second Layer:
+The blue perceptrons are making decisions by weighing the results from the first layer. This layer make more complex decisions at a more abstract level than the first layer.
+
