@@ -1,4 +1,4 @@
-🧠 MCQ Generator using OpenAI and LangChain
+### 🧠 MCQ Generator using OpenAI and LangChain
 
 This project is an AI-powered Multiple Choice Question (MCQ) generator that takes any paragraph as input and generates MCQs based on its content. It leverages **OpenAI's GPT models** and the **LangChain framework** ..
 
@@ -26,4 +26,5 @@ This project is an AI-powered Multiple Choice Question (MCQ) generator that take
 * 📚 Education platforms
 * 🧪 Quiz creation for teachers/trainers
 * 🧠 Self-assessment tools for students
+
 
